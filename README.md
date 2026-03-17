@@ -1,7 +1,7 @@
 # PROGRAMACIÓ
 Modul de programació
 
-## 📂 Estructura del proyecto
+## 📂 Activitats
 | Activitat | enllaç |
 |-----------------|-------------|
 | `1. Presa de decisions` | Scripts principales (listas, clases) |
