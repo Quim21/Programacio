@@ -1,5 +1,10 @@
 *PROGRAMACIÓ*
+Modul de programació
 
-**1er Trimestre**
-
-*2. Presa de decisions*
+## 📂 Estructura del proyecto
+| Carpeta/Archivo | Descripción |
+|-----------------|-------------|
+| `scripts/` | Scripts principales (listas, clases) |
+| `tests/` | Pruebas automatizadas con pytest |
+| `chess/` | Lógica de ajedrez |
+| `web/` | Interfaces HTML/JS + MySQL |
