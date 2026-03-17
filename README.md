@@ -3,12 +3,12 @@
 ## 📂 Activitats
 | Activitat | enllaç |
 |-----------------|-------------|
-| `1. Presa de decisions` | Scripts principales (listas, clases) |
-| `2. Operacións aritmetiques` | Pruebas automatizadas con pytest |
-| `3. Domotica I` | Lógica de ajedrez |
-| `4. Domotica II` | Interfaces HTML/JS + MySQL |
-| `5. Comandes d'un restaurant` | Interfaces HTML/JS + MySQL |
-| `5.1. Comandes d'un restaurant (match/case)` | Interfaces HTML/JS + MySQL |
+| `1. Presa de decisions` | **<a id="joc" href="https://github.com/Quim21/Programacio/blob/main/joc.py" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar a joc</a>** |
+| `2. Operacions aritmetiques` | **<a id="opar" href="https://github.com/Quim21/Programacio/blob/main/Operacions%20aritmetiques.py" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar a Operacions aritmetiques.py</a>** |
+| `3. Domotica I` | **<a id="Domotica1" href="https://https://github.com/Quim21/Programacio/blob/main/casa_domotica.py" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar a Domotica I</a>** |
+| `4. Domotica II` | **<a id="Domotica2" href="https://github.com/Quim21/Programacio/blob/main/casa_domotica%20p2.py" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar a Domotica II</a>** |
+| `5. Comandes d'un restaurant` | **<a id="Comres" href="https://github.com/Quim21/Programacio/blob/main/comandes%20restaurant.py" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar a Comandes d'un restaurant</a>** |
+| `5.1. Comandes d'un restaurant (match/case)` | **<a id ="comresmatch" href="https://github.com/Quim21/Programacio/blob/main/comandes%20restaurant%20-%20match%20case.py" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar a Comandes d'un restaurant (match/case)</a>** |
 |-----------------|-------------|
 | **Prova Parcial 1** | Interfaces HTML/JS + MySQL |
 |-----------------|-------------|
