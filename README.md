@@ -1,5 +1,4 @@
 # PROGRAMACIÓ
-
 Modul de programació
 
 ## 📂 Estructura del proyecto
