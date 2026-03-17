@@ -1,5 +1,4 @@
-# PROGRAMACIÓ
-Modul de programació
+# PROGRAMACIÓ Modul de programació
 
 ## 📂 Activitats
 | Activitat | enllaç |
@@ -10,7 +9,8 @@ Modul de programació
 | `4. Domotica II` | Interfaces HTML/JS + MySQL |
 | `5. Comandes d'un restaurant` | Interfaces HTML/JS + MySQL |
 | `5.1. Comandes d'un restaurant (match/case)` | Interfaces HTML/JS + MySQL |
-| ***Prova Parcial 1*** | Interfaces HTML/JS + MySQL |
+|-----------------|-------------|
+| **Prova Parcial 1** | Interfaces HTML/JS + MySQL |
 |-----------------|-------------|
 | `6. La oca` | Interfaces HTML/JS + MySQL |
 | `7. Escacs` | Interfaces HTML/JS + MySQL |
