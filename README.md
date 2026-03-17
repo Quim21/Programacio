@@ -10,7 +10,7 @@
 | `5. Comandes d'un restaurant` | **<a id="Comres" href="https://github.com/Quim21/Programacio/blob/main/comandes%20restaurant.py" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar a Comandes d'un restaurant</a>** |
 | `5.1. Comandes d'un restaurant (match/case)` | **<a id ="comresmatch" href="https://github.com/Quim21/Programacio/blob/main/comandes%20restaurant%20-%20match%20case.py" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar a Comandes d'un restaurant (match/case)</a>** |
 |-----------------|-------------|
-| **Prova Parcial 1** | Interfaces HTML/JS + MySQL |
+| **Prova Parcial 1** | **<a id ="comresmatch" href="https://github.com/Quim21/Programacio/blob/main/Prova%20parcial%201.py" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar a prova parcial 1** |
 |-----------------|-------------|
 | `6. La oca` | Interfaces HTML/JS + MySQL |
 | `7. Escacs` | Interfaces HTML/JS + MySQL |
